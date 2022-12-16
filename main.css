@@ -1,0 +1,78 @@
+body {
+	background-color: slategray;
+}
+
+.article {
+	background-color: seashell;
+	max-width: 900px;
+	padding-left: 5px;
+	padding-right: 50px;
+	border: 30px black; solid;
+}
+
+.story-top {
+	font-family: "Georgia", serif;
+	max-width: 850px;
+	margin-left: auto;
+	margin-right: 0px;
+}
+
+.story-top h1 {
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+.timestamp {
+	font-family: "Georgia", serif;
+	color: #black;
+	font-size: 11px;
+}
+
+.byline {
+	color: darkred;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.lead-image {
+	max-width: 850px;
+	margin-left: auto;
+	margin-right: 0px;
+}
+
+img {
+	width: 100%;
+}
+
+.lead-image p {
+max-width: 800px;
+	color: #767676;
+	font-size: 10px;
+	font-family: "Arial", sans-serif;
+	margin-top: 5px;
+	line-height: 20px;  
+}
+
+.story-text {
+	font-family: "Times New Roman", serif;
+	font-size: 17px;
+	max-width: 870px;
+	margin-left: auto;
+	margin-right: 0px;
+	line-height: 1.65;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.story-text p {
+	max-width: 700px;
+	padding-bottom: 10px;
+}
+
+h2 {
+	font-family: "Tahoma", sans-serif;
+	font-size: 22px;
+}
+
+
+
